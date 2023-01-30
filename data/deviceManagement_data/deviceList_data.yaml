@@ -1,0 +1,10 @@
+-
+  id: deviceList_search_001
+  name: 设备名称和设备类型组合搜索01
+  data:
+    deviceName: GNSS
+    deviceType: 北斗形变位移测量系统
+  assert:
+    assert_deviceName: GNSS
+    assert_deviceType: 北斗形变位移测量系统
+

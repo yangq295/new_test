@@ -1,0 +1,7 @@
+-
+    id: "345"
+    name: "首页-系统总览测试数据"
+    assert:
+        jichushuju: '基础数据'
+        jianceshbei: '监测设备'
+        tucengguanli: '图层管理'

@@ -1,0 +1,30 @@
+-
+    id: "345"
+    name: "系统管理用户列表新增测试数据"
+    data:
+        username: 'coajt_dadsadsad'
+        password: '123456'
+        surepassword: '123456'
+        email: '123@163.com'
+        phonenum: '18767898767'
+        assert: '操作成功'
+-
+    id: "346"
+    name: "系统管理用户列表编辑测试数据"
+    data:
+        username: 'coajt_test1222'
+        password: '123456'
+        surepassword: '123456'
+        email: '123@163.com'
+        phonenum: '18767898767'
+        assert: '操作成功'
+-
+    id: "347"
+    name: "系统管理用户列表搜索"
+    data:
+        username: 'coajt_test1222'
+-
+    id: "348"
+    name: "系统管理用户列表删除"
+    data:
+        assert: '操作成功'

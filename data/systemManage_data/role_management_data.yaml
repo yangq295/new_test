@@ -1,0 +1,27 @@
+-
+    id: "348"
+    name: "系统管理角色管理新增测试数据"
+    data:
+        username: '测试角色123'
+        Remark: '备注信息1'
+        assert: '操作成功'
+
+-
+    id: "349"
+    name: "系统管理角色管理编辑测试数据"
+    data:
+        username: '测试角色456'
+        Remark: '备注信息2'
+        assert: '操作成功'
+
+-
+    id: "350"
+    name: "系统管理角色管理搜索"
+    data:
+        username: '测试角色456'
+        assert: '操作成功'
+-
+    id: "351"
+    name: "系统管理角色管理删除"
+    data:
+        assert: '操作成功'

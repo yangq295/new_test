@@ -1,0 +1,14 @@
+-
+    id: "350"
+    name: "系统管理令牌管理-令牌密钥绑定测试数据"
+    data:
+        password: 'adsdasdsadsa'
+        assert: '操作成功'
+        assert1: '上报成功!'
+-
+    id: "350"
+    name: "系统管理令牌管理-令牌密钥解绑测试数据"
+    data:
+        assert: '解绑成功'
+
+

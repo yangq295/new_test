@@ -1,0 +1,9 @@
+-
+    id: "345"
+    name: "系统管理公共测试数据"
+    assert:
+        userlist: '用户列表'
+        rolemanagement: '角色管理'
+        systemlog: '系统日志'
+        semote_sensing_management: '遥感管理'
+        token_management: '令牌管理'

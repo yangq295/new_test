@@ -1,0 +1,8 @@
+-
+    id: "568"
+    name: "设置阈值"
+    data:
+        upper_threshold: "12"
+        lower_threshold: "12"
+        upper_increase: "12"
+        lower_increase: "12"

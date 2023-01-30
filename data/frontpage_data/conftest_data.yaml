@@ -1,0 +1,8 @@
+-
+    id: "345"
+    name: "首页公共测试数据"
+    assert:
+        system_overview: '系统总览'
+        Monitoring_data: '监测数据'
+        Remote_sensing_monitoring: '遥感监测'
+        Project_management: '项目管理'

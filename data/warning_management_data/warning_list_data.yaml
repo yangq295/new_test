@@ -1,0 +1,8 @@
+-
+    id: "568"
+    name: "页面查询"
+    data:
+        point_name: '//span[text()="曹家滩北斗形变位移测量监测点002"]'
+        warning_level: '//li/span[text()="红色预警"]'
+        starting_time: '2022-04-23'
+        End_time: '2022-04-23'

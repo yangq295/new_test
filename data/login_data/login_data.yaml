@@ -1,0 +1,19 @@
+-
+    id: login_001
+    name: 登录成功
+    url: http://192.168.40.114:30080/bdenv/#/login
+    data:
+        username: caojt
+        password: beidou123
+        Verification: 111111
+    assert: success
+-
+    id: login_002
+    name: 账号或密码不正确
+    url: http://192.168.40.116:30080/bdenv/#/login
+    data:
+        username: caojt_hj
+        password: 123456
+        Verification: 111111
+    assert: 账号或密码不正确
+

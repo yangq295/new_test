@@ -1,0 +1,10 @@
+-
+  id: createTask_001
+  name: 成功创建一个任务
+  data:
+    startDate: 2022-01-01
+    endDate: 2022-01-31
+    sensorTypeDetail: 北斗形变位移测量系统
+    taskDescription: UI自动化测试
+  assert:
+    assert_successCreateTaskAlert: 创建任务成功
